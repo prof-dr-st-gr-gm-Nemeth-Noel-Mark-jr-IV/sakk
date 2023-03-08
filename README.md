@@ -1,12 +1,13 @@
 # sakk
 George Floyd
-![nigger]: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.bbc.com%2Fnews%2Fworld-us-canada-52861726&psig=AOvVaw1XRTz5F2HIoIoWfGRcRLOq&ust=1678347928759000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCICt5rXry_0CFQAAAAAdAAAAABAD
 
-Ez egy bekezdés
-Ez egy másik bekezdés
+![nigger](https://c.files.bbci.co.uk/13278/production/_112565487_floyd.png)
 
-Ez a szó *dőlt*, és _ez is dőlt_.
+George Perry Floyd Jr.
+(October 14, 1973 – May 25, 2020) was an African-American man who was murdered by a police officer in Minneapolis, Minnesota, during an arrest made after a store clerk suspected Floyd may have used a counterfeit twenty-dollar bill, on May 25, 2020.[3] Derek Chauvin, one of the four police officers who arrived on the scene, knelt on Floyd's neck and back for 9 minutes and 29 seconds which caused a lack of oxygen.
+[4] After his murder, protests against police brutality, especially towards black people, quickly spread across the United States and globally.
+His dying words, "I can't breathe," became a rallying slogan.
 
-Ez meg **félkövér**
-
-Ez meg a _**A kettő kombinációja**_
+"I can't breathe, I'm waiting for the exhale
+Toss my pain with my wishes in a wishing well
+Still no luck, but oh, well"
